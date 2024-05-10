@@ -3,6 +3,8 @@
 This package contains the matlab code of the following paper:
 Sinha, Adarsh, Rahul Agarwal, Vinay Kumar, Nitin Garg, Dhruv Singh Pundir, Harsimran Singh, Ritu Rani, and Chinmaya Panigrahy. "Multi-modal medical image fusion using improved dual-channel PCNN." Medical & Biological Engineering & Computing (2024): 1-23. DOI: 10.1007/s11517-024-03089-w.
 
+https://link.springer.com/article/10.1007/s11517-024-03089-w
+
 Usage of this code is free for research purposes only.
 
 Please cite the above publication if you use this code.
