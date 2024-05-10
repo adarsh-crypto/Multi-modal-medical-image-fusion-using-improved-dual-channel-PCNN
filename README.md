@@ -10,6 +10,9 @@ Please cite the above publication if you use this code.
 The demo file is Proposed_Medical_Image_Fusion_Algorithm.m.
 
 Do not hesitate to let me know if you have any queries while using/executing this code.
+
 Sinha et al.
+
 E-mail:  sinha.adarsh200@gmail.com
+
 Date of uploading: 10-05-2024
